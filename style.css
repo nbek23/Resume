@@ -9,7 +9,7 @@
 }
 body
 {
-    background: rgb(110, 116, 112);
+    background: rgb(230, 115, 115);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -137,7 +137,7 @@ font-weight: 300;
     position: relative;
     width: 100%;
     height: 6px;
-    background: #4d3535;
+    background: #f18384;
     display: block;
     margin-top: 5px;
 }
@@ -208,7 +208,7 @@ align-items: center;
 .skills .box h4
 {
     text-transform: uppercase;
-    color: #848c99;
+    color: #848c99;  
     font-weight: 500;
 
 }
@@ -240,10 +240,7 @@ background: rgb(118, 24, 24);
 }
 .interest ul li .fa 
 {
-    color: #902324;
+    color: #902324; 
     font-size: 18px;
     width: 20px;
 }
-
-
-
